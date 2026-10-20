@@ -44,4 +44,7 @@ These checks provide a baseline for troubleshooting network connectivity and und
 These tests do not establish that all external destinations are reachable or that the network is free from malicious activity. Additional monitoring and investigation would be required to assess security.
 
 ### Evidence
-Add the terminal screenshot showing all three test results here.# Cybersecurity-portfolio
+
+The screenshot below shows the terminal output from the connectivity and DNS tests performed during this investigation.
+
+![Connectivity and DNS test results](connectivity-tests.png)
