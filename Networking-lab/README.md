@@ -37,8 +37,10 @@ The VM has an active network interface with an IPv4 address and a configured def
 ## SOC Relevance
 Understanding network interfaces, IP addressing, and routing is foundational for interpreting network logs and investigating connectivity or suspicious-traffic alerts.
 
-## Evidence
-A screenshot of the terminal output was captured on 19 October 2026.
+## Evidence: Network Interface and Routing
 
+The screenshot below shows the network interface, IPv4 address, default gateway, and Kali Linux version observed during the initial lab setup.
+
+![Network interface, routing table, and Kali Linux version](network-setup.png)
 ## Disclaimer
 This is a learning exercise conducted in the user's own virtual machine environment.
